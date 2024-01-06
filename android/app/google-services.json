@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "391900979107",
+    "project_id": "capstone-c1se27",
+    "storage_bucket": "capstone-c1se27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391900979107:android:34d742f23cfeff19cec416",
+        "android_client_info": {
+          "package_name": "com.example.capstone_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391900979107-tkrinovdjvlkohh6b03i1dcc31658g1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone_flutter",
+            "certificate_hash": "771ae292d03fd7c0ae5cc585e95a855da3fea290"
+          }
+        },
+        {
+          "client_id": "391900979107-kp4hopmbojf7ecjgj40m0teqkkmhuati.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0__uICszGctXeHao80CGFFStySI1l-Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391900979107-f8f9h6271nmg880u4b95jbt74kd2ontf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391900979107-bbmk7mci4tp16b4s1c3qsc86bnd1i1of.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.capstoneFlutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391900979107:android:a47490601ee85d07cec416",
+        "android_client_info": {
+          "package_name": "com.example.task_api_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391900979107-l4vf7u3kamh9jmib1njgime40hk7imd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.task_api_flutter",
+            "certificate_hash": "771ae292d03fd7c0ae5cc585e95a855da3fea290"
+          }
+        },
+        {
+          "client_id": "391900979107-kp4hopmbojf7ecjgj40m0teqkkmhuati.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0__uICszGctXeHao80CGFFStySI1l-Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391900979107-f8f9h6271nmg880u4b95jbt74kd2ontf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391900979107-bbmk7mci4tp16b4s1c3qsc86bnd1i1of.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.capstoneFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
